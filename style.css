@@ -28,6 +28,9 @@ h4{
 	list-style-position: outside;
 	padding-left: 0px;
 }
+.linha:hover{
+	background-color: #277C4D;
+}
 body {
 	background-color: black;
 	font-family: Arial, Helvetica, sans-serif;
@@ -39,15 +42,14 @@ ul{
 .nemviu {
 	color: #132613;
 }
-.linha:hover{
-	background-color: #277C4D;
-}
+
  h1{
 	background-image: linear-gradient(to bottom, black, gray);
 	padding: 25px;
 }
 h3{
 	background-color: rgba(158, 158, 158, 0.6);
+	padding: 10px;
 }
 
 a.linkhead{
